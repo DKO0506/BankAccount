@@ -1,3 +1,5 @@
 # BankAccount
 
-# Authors:David Kokiashvili Dor Yakoby
+# Authors:David Kokiashvili & Dor Yakoby
+
+# Second Exercise in C programming.
